@@ -20,5 +20,7 @@ export const GlobalStyles = {
         muted: '#6C757D',        // New color
         lightGreen: '#B8E6B2',    // New color
         darkBlue: '#1D3C58',      // New color
+        lightGray: '#e1e7ea',    // New color
+        error: '#F7BBC5',         // New color
     },
 };
